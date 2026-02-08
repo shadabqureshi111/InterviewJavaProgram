@@ -6,7 +6,7 @@ public class StarPattern {
 		int n=5;
 
 //1
-//			   * 
+//			* 
 //		   * * 
 //		  * * * 
 //		 * * * * 
@@ -53,11 +53,11 @@ public class StarPattern {
 //3
 		
 
-//						        * 
-//          * * 
-//      			 * * * 
-//       * * * * 
-//  			 * * * * * 
+//						* 
+//        		      * * 
+//      			* * * 
+//    		      * * * * 
+//  			* * * * * 
 		for(int i=1;i<=n;i++)
 		{
 			for(int k=i;k<n;k++)
@@ -179,7 +179,7 @@ public class StarPattern {
 //9
 		
 		
-//		  	  * * * * * 
+//		  	* * * * * 
 //		   * * * * * 
 //		  * * * * * 
 //		 * * * * * 
@@ -302,7 +302,7 @@ public class StarPattern {
 		System.out.println();
 		
 //13
-//		   	* 
+//			* 
 //		   * * 
 //		  * * * 
 //		 * * * * 
@@ -368,7 +368,7 @@ public class StarPattern {
 		
 		
 //		
-//	   	*
+//	  	*
 //	   * *
 //	  *   *
 //	 *     *
@@ -424,7 +424,7 @@ public class StarPattern {
 
 //17
 		
-//		  	  *
+//		  	*
 //		   * *
 //		  *   *
 //		 *     *
